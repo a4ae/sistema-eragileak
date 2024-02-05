@@ -7,3 +7,8 @@ Despues enciende la maquina y cuando se carge el disco, elije instalar en disco,
 Luego nos preguntara si queremos formatear la particion y elejiremos formatearlo a ext4
 Por ultimo nos preguntara si queremos instalar un GRUB, elige que si, luego preguntara si queremos que la carpeta sea de lectura y escritura y tambien elegiremos que si.
 Una vez hecho esto se deberia haber instalado android y darte la opcion de reiniciar la maquina o ejecutar android
+Referencia:
+https://groups.google.com/g/android-x86/c/cr5lV0g6vtQ
+https://www.android-x86.org/installhowto.html
+https://www.geeknetic.es/Guia/1888/Como-instalar-Android-en-tu-PC-con-VirtualBox.html
+https://www.android-x86.org/download
