@@ -1,0 +1,9 @@
+Para instalar android en virtualbox primero descarga la iso de android-86, una vez instalado, crea una maquina virtual usando el modo desatendido con estas caracteristicas:
+-Linux de 64 bit
+-2 o mas GB RAM
+-8 o mas GB de espacio en el disco duro
+-Controlador grafico vboxvga
+Despues enciende la maquina y cuando se carge el disco, elije instalar en disco, durante la instalacion primero te preguntara en que particion guardar el sistema, crea una particion y elije esa particion para guardar el sistema.
+Luego nos preguntara si queremos formatear la particion y elejiremos formatearlo a ext4
+Por ultimo nos preguntara si queremos instalar un GRUB, elige que si, luego preguntara si queremos que la carpeta sea de lectura y escritura y tambien elegiremos que si.
+Una vez hecho esto se deberia haber instalado android y darte la opcion de reiniciar la maquina o ejecutar android
