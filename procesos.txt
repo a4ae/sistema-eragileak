@@ -1,0 +1,8 @@
+Visualizar procesos en Linux
+El comando ps muestra una lista estatica de procesos
+Top muestra una lista en tiempo real
+Htop es parecido a top pero tambien muestra un menu de configuracion
+
+Gestionar procesos en Linux
+El comando kill termina un proceso
+Killall permite terminar grupos de procesos al mismo tiempo

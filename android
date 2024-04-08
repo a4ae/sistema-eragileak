@@ -1,0 +1,6 @@
+Descargar android en movil desde pc
+
+Primero, conseguimos un movil viejo para hacer pruebas con ese en lugar de uno nuevo, tambien debemos cambiar la configuracion del movil para que dispositibos conectados por USB puedan modificarlo.
+ 
+Ahora hay que flashear el movil para quitar el sistema anterior y poder instalar el nuevo, para eso en el ordenador hay que instalar adb(android debug bridge) y fastboot, estos programas estan disponibles dentro del pack sdk platform tools que se puede descargar en esta pagina web https://developer.android.com/tools/releases/platform-tools#downloads
+Despues de instalar los programas, conectamos el movil por USB y abrimos adb mediante terminal, una vez abierto usa el comando "adb reboot bootloader" para entrar en el bootloader del movil
