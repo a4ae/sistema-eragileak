@@ -11,6 +11,7 @@
   - [Ezaugarri bereziak - lsattr eta chattr](#ezaugarri-bereziak---lsattr-eta-chattr)
 - [Ariketak](#ariketak)
   - [Ariketa 1](#ariketa-1)
+  - [Erantzunak](#erantzunak)
 
 ## Fitxategi eta direktorioen baimena
 
@@ -173,3 +174,24 @@ lotu dagokion baimenarekin:
 - --xrw--w-
 - r--rw--w-
 - --xrw---x
+
+## Erantzunak
+-462
+-123
+-711
+-333
+-161
+-765
+-567
+-101
+-162
+
+- rwx--x--x - 711
+- --x-w--wx - 123
+- --x-----x - 101
+- -wx-wx-wx - 333
+- r-xrw-rwx - 567
+- rwxrw-r-x - 765
+- --xrw--w- - 162
+- r--rw--w- - 462
+- --xrw---x - 161
