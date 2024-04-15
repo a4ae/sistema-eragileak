@@ -298,4 +298,4 @@ Honako baimen hauek konfiguratuta dituen fitxategi hau ezabatu ahal izango dut?
 
 ## Erantzunak 7
 
-ez
+bai
