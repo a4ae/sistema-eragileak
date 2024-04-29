@@ -12,4 +12,8 @@ echo "Kalkulo mota idatzi"
 
 read CALC
 
-expr $ZENBAKIA1 $CALC $ZENBAKIA2
+if [ "$CALC" = "*" ]; then
+    expr $ZENBAKIA1 \* $ZENBAKIA2
+else
+    expr $ZENBAKIA1 $CALC $ZENBAKIA2
+fi 
