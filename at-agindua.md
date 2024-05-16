@@ -15,39 +15,43 @@
 
 ## Ariketa 1
 
-
-
+![alt text](image-12.png)
+***
 ## Ariketa 2
 
 Ez du uzten komandoa erabiltzen baimena ez dudalako
 ![alt text](image-2.png)
-
+***
 ## Ariketa 3
 
 ![alt text](image-3.png)
-
+***
 ## Ariketa 4
 
 ![alt text](image-4.png)
-
+***
 ## Ariketa 5
 
 ![alt text](image-5.png)
-
+***
 ## Ariketa 6
 
-
-
+![alt text](image-6.png)
+***
 ## Ariketa 7
 
-
-
+![alt text](image-7.png)
+***
 ## Ariketa 8
 
-
-
+![alt text](image-8.png)
+***
 ## Ariketa 9
 
-
-
+![alt text](image-9.png)
+***
 ## Ariketa 10
+
+![alt text](image-11.png)
+![alt text](image-10.png)
+***
